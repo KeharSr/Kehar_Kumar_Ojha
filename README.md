@@ -63,10 +63,10 @@
   <a href="https://github.com/KeharSr">
     <img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/kehar-kumar-ojha-a8706b288/">
     <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="40"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:Y=keharojha56@gmail.com">
     <img src="https://img.icons8.com/ios-filled/50/gmail.png" width="40"/>
   </a>
 </p>
