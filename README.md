@@ -34,16 +34,11 @@
           <br/>
           <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20px">&nbsp;AI/ML enthusiast
           <br/><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nepal/nepal-original.svg" width="25px">&nbsp;<b>Based in Nepal 🏔️</b>
         </div>
       </td>
     </tr>
   </table>
-  
-  <!-- Interactive Code Block -->
-  <div align="center" style="margin-top: 30px;">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=150&section=header&text=const%20developer%20%3D%20%7B%0A%20%20name%3A%20%22Kehar%22%2C%0A%20%20role%3A%20%22Flutter%20Developer%22%2C%0A%20%20passions%3A%20%5B%22Mobile%20Apps%22%2C%20%22Clean%20Code%22%2C%20%22Problem%20Solving%22%5D%2C%0A%20%20motto%3A%20%22Code%20is%20poetry%20in%20motion%22%20%F0%9F%9A%80%0A%7D%3B&fontSize=16&fontColor=fff&fontAlign=50&fontAlignY=50&desc=&descAlign=50&descAlignY=70" width="80%"/>
-  </div>
+
   
   <!-- Fun Stats -->
   <table align="center">
