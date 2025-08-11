@@ -1,32 +1,25 @@
-<!-- Banner -->
+<!-- Banner Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Coding Animation"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Kehar Kumar Ojha</h1>
-<h3 align="center">🚀 Full-Stack Flutter Developer | AI/ML Enthusiast | Problem Solver</h3>
+<h1 align="center">Hey 👋, I'm Kehar Kumar Ojha</h1>
+<h3 align="center">🚀 Full-Stack Flutter Developer | AI/ML Explorer | Lifelong Learner</h3>
 
 ---
 
-## 🌟 About Me
-💡 I’m passionate about **building beautiful, high-performance apps** using **Flutter** with clean architecture.  
-🎯 Currently on a **100-day project-based journey** to sharpen my Flutter, DevOps, and AI integration skills.  
-✨ I focus on delivering **scalable, maintainable, and visually pleasing applications**.  
-
----
-
-## 💻 What I Do
+## 🌱 What I’m Learning Right Now
 <p>
   <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/> 
-  <b>Flutter Development</b> – BLoC, Provider, MVVM, Clean Architecture  
+  Advanced **Flutter** – Clean Architecture, MVVM, BLoC  
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> 
+  **Node.js** – REST APIs, WebSockets, Microservices  
   <img src="https://img.icons8.com/color/48/google-maps.png" alt="Google Maps"/> 
-  <b>Location-based apps</b> – Google Maps SDK, Places API, Routes API  
-  <img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel"/> 
-  <b>Laravel Backends</b> – REST APIs, Custom OTP Systems  
+  Google Maps APIs – Routes API v2, Places, Live Tracking  
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="AI"/> 
-  <b>AI/ML Integration</b> – TensorFlow, OpenAI APIs  
+  AI/ML Integration – TensorFlow, OpenAI APIs  
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub Actions"/> 
-  <b>CI/CD Pipelines</b> – GitHub Actions → Google Play Store  
+  CI/CD – GitHub Actions → Google Play Store  
 </p>
 
 ---
@@ -35,7 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
@@ -46,28 +39,28 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kehar-Kumar-Ojha&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KeharSr&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kehar-Kumar-Ojha&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeharSr&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kehar-Kumar-Ojha&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeharSr&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 🎯 Current Goals
-- ✅ **100 Days of Project-Based Flutter Development**
-- 🤖 Build **AI-powered Flutter Apps**
+- 🌟 Complete **100 Days of Project-Based Flutter Development**
+- 🤖 Build **AI-powered Mobile Apps**
 - 🧹 Master **Clean Architecture** & **Advanced State Management**
-- 🚀 Deploy with **Automated CI/CD Pipelines**
+- 🚀 Fully automate app releases with **CI/CD Pipelines**
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/Kehar-Kumar-Ojha">
+  <a href="https://github.com/KeharSr">
     <img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINK">
