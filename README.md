@@ -11,24 +11,67 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- About Me Section with Gradient Background -->
+<!-- About Me Section with Enhanced Visual Appeal -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=120&section=header&text=About%20Me&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
   
-  ## 🚀 About Me
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding Animation"/>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=350&lines=Building+the+future+with+code;One+commit+at+a+time+%F0%9F%9A%80;Turning+coffee+into+apps+%E2%98%95" alt="Dynamic Subtitle"/>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>Full-Stack Flutter Developer</b>
+          <br/><br/>
+          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px">&nbsp;Building scalable mobile applications
+          <br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20px">&nbsp;Passionate about clean, efficient code
+          <br/>
+          <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20px">&nbsp;Problem solver at heart
+          <br/>
+          <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20px">&nbsp;AI/ML enthusiast
+          <br/><br/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nepal/nepal-original.svg" width="25px">&nbsp;<b>Based in Nepal 🏔️</b>
+          <br/><br/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF6B6B&width=300&lines=Currently+learning+Advanced+Flutter;Exploring+AI+Integration;Mastering+Clean+Architecture;Solving+DSA+Problems" alt="Learning Status"/>
+        </div>
+      </td>
+    </tr>
+  </table>
   
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <!-- Interactive Code Block -->
+  <div align="center" style="margin-top: 30px;">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=150&section=header&text=const%20developer%20%3D%20%7B%0A%20%20name%3A%20%22Kehar%22%2C%0A%20%20role%3A%20%22Flutter%20Developer%22%2C%0A%20%20passions%3A%20%5B%22Mobile%20Apps%22%2C%20%22Clean%20Code%22%2C%20%22Problem%20Solving%22%5D%2C%0A%20%20motto%3A%20%22Code%20is%20poetry%20in%20motion%22%20%F0%9F%9A%80%0A%7D%3B&fontSize=16&fontColor=fff&fontAlign=50&fontAlignY=50&desc=&descAlign=50&descAlignY=70" width="80%"/>
+  </div>
   
-  ```javascript
-  const kehar = {
-    name: "Kehar Kumar Ojha",
-    role: "Full-Stack Flutter Developer",
-    location: "Nepal 🇳🇵",
-    interests: ["Mobile Development", "AI/ML", "DSA", "Clean Architecture"],
-    currentFocus: "Building scalable Flutter applications",
-    askMeAbout: ["Flutter", "Dart", "Node.js", "Problem Solving"],
-  };
-  ```
+  <!-- Fun Stats -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px"/>
+        <br/><b>Code Enthusiast</b>
+        <br/><sub>Turning ideas into reality</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"/>
+        <br/><b>Lifelong Learner</b>
+        <br/><sub>Always growing</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"/>
+        <br/><b>Problem Solver</b>
+        <br/><sub>Debug ninja 🥷</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"/>
+        <br/><b>Team Player</b>
+        <br/><sub>Collaboration focused</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Animated Divider -->
@@ -72,7 +115,7 @@
   
   ### 📱 Mobile Development
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
   </p>
   
   ### 🌐 Backend & Database
@@ -151,12 +194,73 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/KeharSr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeharSr&repo=flutter-portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/KeharSr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeharSr&repo=ai-chat-app&theme=tokyonight&hide_border=true" />
-  </a>
+  
+  ### 📸 Lensify - Complete E-commerce Ecosystem
+  
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <a href="https://github.com/KeharSr/lensify-flutter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeharSr&repo=lensify-flutter&theme=tokyonight&hide_border=true" />
+        </a>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=flutter,dart" />
+        <br/>
+        <sub><b>📱 Mobile App</b> - Flutter Frontend</sub>
+      </td>
+      <td align="center" width="300px">
+        <a href="https://github.com/KeharSr/backend_ecommerce">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeharSr&repo=backend_ecommerce&theme=tokyonight&hide_border=true" />
+        </a>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express" />
+        <br/>
+        <sub><b>⚡ Backend API</b> - Node.js Server</sub>
+      </td>
+      <td align="center" width="300px">
+        <a href="https://github.com/KeharSr/lenisfy_react">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KeharSr&repo=lenisfy_react&theme=tokyonight&hide_border=true" />
+        </a>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,js" />
+        <br/>
+        <sub><b>🌐 Web Dashboard</b> - React Frontend</sub>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=🏗️+Full-Stack+E-commerce+Platform+with+Flutter+%2B+Node.js+%2B+React;📱+Cross-platform+mobile+app+with+modern+UI%2FUX;⚡+RESTful+APIs+with+authentication+%26+payment+integration;🌐+Responsive+web+dashboard+for+admin+management" alt="Project Description"/>
+  </div>
+  
+  <br/>
+  
+  ### 🚀 Project Highlights
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50px"/>
+        <br/><b>Flutter Mobile</b>
+        <br/><sub>Cross-platform camera shop app</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50px"/>
+        <br/><b>Node.js Backend</b>
+        <br/><sub>RESTful APIs & Database</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50px"/>
+        <br/><b>React Dashboard</b>
+        <br/><sub>Admin management portal</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50px"/>
+        <br/><b>Full-Stack</b>
+        <br/><sub>End-to-end solution</sub>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 <!-- Animated Divider -->
