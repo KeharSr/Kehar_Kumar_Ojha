@@ -35,8 +35,6 @@
           <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20px">&nbsp;AI/ML enthusiast
           <br/><br/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nepal/nepal-original.svg" width="25px">&nbsp;<b>Based in Nepal 🏔️</b>
-          <br/><br/>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF6B6B&width=300&lines=Currently+learning+Advanced+Flutter;Exploring+AI+Integration;Mastering+Clean+Architecture;Solving+DSA+Problems" alt="Learning Status"/>
         </div>
       </td>
     </tr>
